@@ -1,4 +1,3 @@
-## README
 # KIRBY CLAWSON-HONEYMAN'S PORTFOLIO
 
 This project is Kirby Clawson-Honeyman's design and engineering portfolio.
